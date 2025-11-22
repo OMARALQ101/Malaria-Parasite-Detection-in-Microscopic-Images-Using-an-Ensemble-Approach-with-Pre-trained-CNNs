@@ -1,0 +1,1 @@
+# Malaria-Parasite-Detection-in-Microscopic-Images-Using-an-Ensemble-Approach-with-Pre-trained-CNNs
